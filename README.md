@@ -60,4 +60,4 @@ Through building this project, I understood:
 ## ⚡ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Anusha_Reddi02/RockPaperScissor_Autoplay.git
+   git clone https://anushareddi02.github.io/RockPaperScissor_Autoplay/.git
