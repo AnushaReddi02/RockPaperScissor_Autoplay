@@ -12,7 +12,7 @@ Built with **HTML, CSS, and JavaScript**, featuring:
 
 ## 📸 Screenshot Preview
 
-![Rock Paper Scissors Preview](images/screenshot.png)
+![Rock Paper Scissors Preview](screenshot.png)
 
 ---
 
