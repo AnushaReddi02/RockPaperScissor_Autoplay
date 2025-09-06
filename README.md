@@ -14,26 +14,47 @@ Built using **HTML, CSS, and JavaScript** with a focus on learning core web deve
 
 ---
 
+## 🎮 How to Play
+
+### 1️⃣ Manual Play
+- Click on any **Rock**, **Paper**, or **Scissors** button.  
+- The computer will randomly pick a move.  
+- The result (**You win / You lose / Tie**) is displayed immediately.  
+- Your **score updates automatically** and is stored in Local Storage.  
+
+### 2️⃣ Auto Play
+- Click the **“Auto Play”** button.  
+- The game will automatically pick a random move for you every second.  
+- The computer also plays its move automatically.  
+- Results and score update in real-time.  
+- Click **“Auto Play”** again to stop the automatic gameplay.  
+
+> You can switch between manual play and auto-play anytime. All scores are cumulative.  
+> Use the **Reset Score** button to start fresh.
+
+---
+
 ## 📸 Screenshot Preview
 ![Rock Paper Scissors Preview](screenshot.png)
 
 ---
 
-## 🚀 Demo
-(If deployed with GitHub Pages, add the live link here 👉 [Play Now](https://your-username.github.io/rps-arena/))
+## 🚀 Live Demo
+Play the game online here: [Rock Paper Scissors Arena](https://anushareddi02.github.io/RockPaperScissor_Autoplay/)
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **HTML5** → for structuring the page and game UI.  
-- **CSS3** → for styling buttons, results, and creating a clean dark theme.  
-- **JavaScript (Vanilla JS)** → for all the game logic:
+- **HTML5** → For structuring the page and game UI.  
+- **CSS3** → For styling buttons, results, and creating a clean dark theme.  
+- **JavaScript (Vanilla JS)** → For all the game logic:
   - Handling player input (rock, paper, scissors).  
   - Generating computer moves using `Math.random()`.  
   - Comparing moves and deciding the winner.  
   - Updating the DOM dynamically (`innerHTML`).  
   - Implementing **Auto Play** with `setInterval()` and `clearInterval()`.  
   - Saving game state with **Local Storage (JSON.stringify & JSON.parse)**.  
+- **Git & GitHub** → For version control and deploying via GitHub Pages.  
 
 ---
 
@@ -53,11 +74,17 @@ Through building this project, I understood:
 - 💻 Git & GitHub:
   - Organizing project files.  
   - Writing a professional README.  
-  - (Optional) Deploying with **GitHub Pages** for a live demo.  
+  - Deploying with **GitHub Pages** for a live demo.  
 
 ---
 
-## ⚡ How to Run Locally
+## ⚡ How to Access / Run
+You can **play the game directly online** using the live GitHub Pages link:
+
+🎮 **Play Now:** [Rock Paper Scissors Arena](https://anushareddi02.github.io/RockPaperScissor_Autoplay/)
+
+Or, if you want to **run it locally**:
+
 1. Clone this repository:
    ```bash
-   git clone https://anushareddi02.github.io/RockPaperScissor_Autoplay/.git
+   git clone https://github.com/anushareddi02/RockPaperScissor_Autoplay.git
