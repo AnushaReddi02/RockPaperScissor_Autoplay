@@ -87,4 +87,5 @@ Or, if you want to **run it locally**:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/anushareddi02/RockPaperScissor_Autoplay.git
+   git clone https://github.com/AnushaReddi02/RockPaperScissor_Autoplay.git
+
